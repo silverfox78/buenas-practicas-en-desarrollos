@@ -7,11 +7,11 @@
 
 ## Informe
 
-* [Introducción](informe/introduccion.md)
-  * [Presentación](informe/introduccion.md#presentacion)
-  * [Objetivos](informe/introduccion.md#objetivos)
-  * [Para el lector](informe/introduccion.md#para-el-lector)
-  * [Metodología](informe/introduccion/metodologia.md)
+* [Introducción](Informe/introduccion.md)
+  * [Presentación](Informe/introduccion.md#presentacion)
+  * [Objetivos](Informe/introduccion.md#objetivos)
+  * [Para el lector](Informe/introduccion.md#para-el-lector)
+  * [Metodología](Informe/introduccion/metodologia.md)
 * [Desarrollo](chapter1.md)
   * [Tema I](chapter1/tema-i.md)
 * [Conclusión](informe/conclusion.md)
