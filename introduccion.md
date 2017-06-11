@@ -1,10 +1,99 @@
-# Buenas prácticas en desarrollos
+#Introduccion
 
-## Introduccion
+##Presentacion
 
-### Presentacion (#presentacion)
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
 
 
+##Objetivos
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+
+##Para el Lector
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
 
 
 
