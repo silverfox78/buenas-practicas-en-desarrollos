@@ -2,15 +2,25 @@
 
 ---
 
+### 
 
+### 
 
+### 
 
+### 
 
+### 
 
+### 
 
+### 
 
+### 
 
+### 
 
+### 
 
 ### **Licenciamiento**
 
@@ -20,12 +30,7 @@
 
 Este obra está bajo una [licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/)
 
-![cc imagen](/assets/osi_image.png){:height="50px" width="50px"}
+![](/assets/OSI-logo_2.png)
 
 También este documento se encuentra licenciado bajo la norma [MIT](https://es.wikipedia.org/wiki/Licencia_MIT).
-
-
-
-  
-
 
