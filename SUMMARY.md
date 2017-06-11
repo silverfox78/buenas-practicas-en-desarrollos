@@ -3,7 +3,7 @@
 ## Presentación
 
 * [Portada](README.md)
-* Indice de contenidos
+* [Indice de contenidos](indice-de-contenidos.md)
 * [Resumen](resumen.md)
 
 ## Informe
