@@ -1,24 +1,12 @@
 # Buenas prácticas en desarrollos
 
-### 
+![](/assets/Portada.png)
+
+Escrito por [Samuel Jesus de Paul Barrera Bastidas](https://silverfox78.github.io/ "Pagina de Samuel Barrera") - [@silverfox78](https://github.com/silverfox78/)
 
 ### 
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
+---
 
 ### **Licenciamiento**
 
