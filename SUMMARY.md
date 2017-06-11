@@ -2,7 +2,7 @@
 
 ## Informe
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 * [Desarrollo](chapter1.md)
   * Tema I
 * Conclisión
