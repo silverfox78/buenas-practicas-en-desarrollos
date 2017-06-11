@@ -8,10 +8,10 @@
 ## Informe
 
 * [Introducción](Informe/introduccion.md)
-  * [Presentación](Informe/introduccion.md#presentacion)
-  * [Objetivos](Informe/introduccion.md#objetivos)
+  * [Presentación](Informe/introduccion.md#Presentación)
+  * [Objetivos](Informe/introduccion.md#Objetivos)
   * [Para el lector](Informe/introduccion.md#para-el-lector)
-  * [Metodología](Informe/introduccion#Metodología)
+  * [Metodología](Informe/introduccion.md#Metodología)
 * [Desarrollo](chapter1.md)
   * [Tema I](chapter1/tema-i.md)
 * [Conclusión](informe/conclusion.md)
