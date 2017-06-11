@@ -2,7 +2,7 @@
 
 # Buenas prácticas en desarrollos
 
-Escrito por [Samuel Jesus de Paul Barrera Bastidas](https://silverfox78.github.io/ "Pagina de Samuel Barrera") - [@silverfox78](https://github.com/silverfox78/)
+Escrito por [Samuel Jesus de Paul Barrera Bastidas](https://silverfox78.github.io/ "Pagina de Samuel Barrera") - [@silverfox78](https://github.com/silverfox78/), Junio del 2017, Santiago, Chile
 
 ---
 
@@ -14,15 +14,9 @@ Antes de iniciar nuestro proyecto debemos preguntarnos:
 * ¿Estamos haciendo uso de metodos, tecnicas o actividades promuevan la eficiencia?
 * ¿Conozco los principios o guias que se encuentran concensuados en la comunidad?, ¿Los aplico?
 
-
-
 Es muy posible que usted este logrando hacer la labor que tiene propuesta, el tema es si ha considerado si puede mejorar...
 
 El siguiente documento comenta algunos lineamientos sencillos pero practicos respecto al que considerar en un nuevo desafio informatico.
-
-
-
-
 
 ### **Licenciamiento**
 
