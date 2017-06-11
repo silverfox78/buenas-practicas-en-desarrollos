@@ -11,7 +11,7 @@
   * [Presentación](Informe/introduccion.md#presentacion)
   * [Objetivos](Informe/introduccion.md#objetivos)
   * [Para el lector](Informe/introduccion.md#para-el-lector)
-  * [Metodología](Informe/introduccion/metodologia.md)
+  * [Metodología](Informe/introduccion#Metodología)
 * [Desarrollo](chapter1.md)
   * [Tema I](chapter1/tema-i.md)
 * [Conclusión](informe/conclusion.md)
