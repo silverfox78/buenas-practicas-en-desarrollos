@@ -4,7 +4,9 @@
 
 Escrito por [Samuel Jesus de Paul Barrera Bastidas](https://silverfox78.github.io/ "Pagina de Samuel Barrera") - [@silverfox78](https://github.com/silverfox78/)
 
-### 
+---
+
+El proposito de este documento, es ofrecer un marco guia para enfrentar nuevos desarrollos informaticos, aqui se expondran un grupo de temas y referencias que ayudaran a concretar su proyecto.
 
 ---
 
