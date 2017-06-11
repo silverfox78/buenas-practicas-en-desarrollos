@@ -1,13 +1,11 @@
-# Introduccion
+## **Presentación**
 
-### **Presentación**
-
-Esta es la presentacion...
+El presente informe tiene el proposito de ofrecer al lector un grupo de practicas, experiencias y herramientas, que en su conjunto y siendo apropiadamente ocupadas tienen efectos positivos en un proceso de continuidad de un desarrollo informatico, pero para aclarar, esta es solo una guia, algunas sugerencias sueltas que el mismo lector debera valorar y ver cuales son realmente apropiadas para su problematica.
 
 
 ### **Objetivos**
 
-Estos son los objetivos
+El principal objetivo es la eficiencia en el resultado de la labor que el lector emprenda, muchas de estas practicas son de concenso en la comunidad
 
 
 
