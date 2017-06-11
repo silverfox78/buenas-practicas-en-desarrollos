@@ -1,7 +1,5 @@
 # Buenas prácticas en desarrollos
 
----
-
 ### 
 
 ### 
@@ -24,7 +22,7 @@
 
 ### **Licenciamiento**
 
----
+
 
 ![](/assets/88x31.png)
 
