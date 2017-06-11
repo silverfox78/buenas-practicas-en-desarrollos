@@ -10,9 +10,9 @@
 
 * [Introducción](introduccion.md)
   * [Presentación](introduccion/presentacion.md)
-  * Objetivos
-  * Metodología
-  * Para el lector
+  * [Objetivos](introduccion/objetivos.md)
+  * [Metodología](introduccion/metodologia.md)
+  * [Para el lector](introduccion/para-el-lector.md)
 * [Presentacion](presentacion.md)
 * [Desarrollo](chapter1.md)
   * [Tema I](chapter1/tema-i.md)
