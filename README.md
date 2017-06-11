@@ -6,7 +6,7 @@ Escrito por [Samuel Jesus de Paul Barrera Bastidas](https://silverfox78.github.i
 
 ---
 
-El como afrontar un nuevo desarrollo informatico siempre tiene multiples aristas, suelen recorrerse diferentes caminos para lograr concretar un proyecto y en esto influye la experiencia del equipo de trabajo. La forma en que las acciones se vayan realizando afectaran no solo al desarrollo del proyecto, sino a su resultado integral. Es en esto donde debemos reparar en el como deseamos que estas acciones se lleven a cabo.
+El como afrontar un nuevo desarrollo informatico siempre tiene multiples aristas, suelen recorrerse diferentes caminos para lograr concretar un proyecto, en esto influye la experiencia del equipo de trabajo y las herramientas que usan. La forma en que las acciones se vayan realizando afectaran no solo al desarrollo del proyecto, sino a su resultado integral, es en esto donde debemos reparar en el como deseamos que estas acciones se lleven a cabo para tener un resultado optimo en el tiempo.
 
 Antes de iniciar nuestro proyecto debemos preguntarnos:
 
