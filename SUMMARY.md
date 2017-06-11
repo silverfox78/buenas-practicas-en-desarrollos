@@ -3,22 +3,22 @@
 ## Presentación
 
 * [Portada](README.md)
-* [Indice de contenidos](indice-de-contenidos.md)
+* [Indice de contenidos](Presentacion\indice-de-contenidos.md)
 
 ## Informe
 
-* [Introducción](introduccion.md)
-  * [Presentación](introduccion.md#presentacion)
-  * [Objetivos](introduccion.md#objetivos)
-  * [Para el lector](introduccion.md#para-el-lector)
-  * [Metodología](introduccion/metodologia.md)
+* [Introducción](informe/introduccion.md)
+  * [Presentación](informe/introduccion.md#presentacion)
+  * [Objetivos](informe/introduccion.md#objetivos)
+  * [Para el lector](informe/introduccion.md#para-el-lector)
+  * [Metodología](informe/introduccion/metodologia.md)
 * [Desarrollo](chapter1.md)
   * [Tema I](chapter1/tema-i.md)
-* [Conclusión](conclision.md)
+* [Conclusión](informe/conclusion.md)
 
 ## Apéndice
 
-* [Anexos](anexos.md)
-* [Bibliografía](bibliografia.md)
-* Glosario
+* [Anexos](Anexos/anexos.md)
+* [Bibliografía](Anexos/bibliografia.md)
+* [Glosario](Anexos/glosario.md)
 
