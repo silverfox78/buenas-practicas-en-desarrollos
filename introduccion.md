@@ -1,38 +1,6 @@
-#Introduccion
+# Introduccion
 
-##Presentacion
-
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-
-bla bla bla
-bla bla bla
-bla bla bla
-
-bla bla bla
-bla bla bla
-bla bla bla
-
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-bla bla bla
-
-
-##Objetivos
+## Presentacion
 
 bla bla bla
 bla bla bla
@@ -64,7 +32,39 @@ bla bla bla
 bla bla bla
 
 
-##Para el Lector
+## Objetivos
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+bla bla bla
+
+
+## Para el Lector
 
 bla bla bla
 bla bla bla
