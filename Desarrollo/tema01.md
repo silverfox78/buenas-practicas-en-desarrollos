@@ -20,7 +20,12 @@ Es usual que nuestro trabajo no sea para nosotros, así que lo ideal es antes de
 Lo importante de estas convenciones es evitar situaciones como la siguiente:
  
 <!-- language: lang-js -->
-function a(b) { c = b + 3; alert(c); };
+```javascript
+function a (b) { 
+    var c = b + 3; 
+    alert(c); 
+};
+```
 
 sdasd
 sdfs
