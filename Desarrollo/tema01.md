@@ -11,7 +11,7 @@ Esto aplica en todo lo que hacemos, desde la definición de los espacios de nomb
  
 Es usual que nuestro trabajo no sea para nosotros, así que lo ideal es antes de comenzar conocer cuales son las convenciones en la nomenclatura de los objetos que generamos, dependiendo de la madurez de la institución en la cual prestemos nuestro servicio es sí dispondrán o no esta especificación, en la situación de que no dispongan de ella, lo ideal es evitar la creatividad natural que nos puede invadir, lo mejor es acudir al consenso de la comunidad o de alguna institución representativa, por ejemplo:
  
-* [Convenciones de nomenclatura Microsoft](https://msdn.microsoft.com/es-es/library/cc467490(v=vs.71).aspx)
+* [Convenciones de nomenclatura Microsoft](https://msdn.microsoft.com/es-es/library/cc467490.aspx)
  
 * [Convenciones de nomenclatura Wikipedia](https://es.wikipedia.org/wiki/Convenci%C3%B3n_de_nombres_(programaci%C3%B3n))
  

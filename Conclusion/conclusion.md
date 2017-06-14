@@ -1,1 +1,7 @@
 ## Conclusión
+
+Las buenas prácticas, como lo dice su nombre, es una convención, pero es la convención que se acomode a nuestra realidad, es nuestro deber procurar mantenernos vigentes respecto a lo que la comunidad propone y tener la certeza de lo que nuestros clientes requieren, y es en función de esto, más el bagaje que tengamos lo que nos dirá qué metodología y qué herramientas deberemos usar.
+ 
+Es necesario tener claro que debemos ser flexibles al cambio, las buenas prácticas o las prácticas establecidas aseguran un nivel de calidad y entendimiento entre las partes, con esto podemos establecer que la continuidad y la integración se podrán efectuar sin mayores tropiezos. Pero nuestra labor debe ser más que solo eso, debe tener nuestra firma personal impresa en ella, para esto esta la única e individual forma artística en la que nosotros anexamos un valor adicional a nuestras soluciones.
+ 
+Este documento no es algo imperativo o rígido, es simplemente una exposición de experiencias y técnicas que se nutren de la implementación y adaptación, es la retroalimentación, las opiniones y criticas lo que se busca, plantar la duda de como mejorar, de que puedo rescatar de lo que hago y hacia donde deseo llegar.
