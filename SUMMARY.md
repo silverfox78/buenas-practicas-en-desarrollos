@@ -12,9 +12,9 @@
   * [Objetivos](Informe/introduccion.md#Objetivos)
   * [Para el lector](Informe/introduccion.md#para-el-lector)
   * [Metodología](Informe/introduccion.md#Metodología)
-* [Desarrollo]
+* Desarrollo
   * [El Asesino que se encuentra tras tus pasos](Desarrollo/tema01.md)
-* [Conclusión](informe/conclusion.md)
+* [Conclusión](Conclusion/conclusion.md)
 
 ## Apéndice
 
