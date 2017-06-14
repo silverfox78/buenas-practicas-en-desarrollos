@@ -13,3 +13,11 @@ Esto es una referencia al aporte de **Tio Bob** (Robert C. Martin), creo que es 
 > + Nunca dejaré de aprender ni de mejorar mis habilidades.
 > 
 > "El Blog código limpio", por Robert C. Martin (Uncle Bob)
+
+Estas directrices están pensadas en defender y preservar el honor de la profesión de los programadores informáticos.
+ 
+> Los programas deben ser escritos para que la gente los lea y sólo incidentalmente, para que las máquinas los ejecuten.
+> 
+> “Abelson / Sussman”
+ 
+Esta frase rescata en buena medida los lineamientos expuestos, nuestra labor debe ser clara, honesta e inteligentemente sencilla, más pensada en nuestros pares que en la maquinaria que los ejecutara, pensada en nuestro cliente y en proceso de continuidad.
