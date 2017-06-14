@@ -3,10 +3,12 @@
 
 
 - The Phoenix Project
-> Gene Kim, Kevin Behr, George Stafford
+> > Gene Kim, Kevin Behr, George Stafford
+
 
 - Clean Code: A Handbook of Agile Software Craftsmanship 
 > Robert C. Martin
+
 
 - Agile Software Development, Principles, Patterns, and Practices
 > Robert C. Martin
