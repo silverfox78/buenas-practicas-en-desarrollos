@@ -14,6 +14,8 @@ Esto es una referencia al aporte de **Tio Bob** (Robert C. Martin), creo que es 
 > 
 > "El Blog código limpio", por Robert C. Martin (Uncle Bob)
 
+
+
 Estas directrices están pensadas en defender y preservar el honor de la profesión de los programadores informáticos.
  
 > Los programas deben ser escritos para que la gente los lea y sólo incidentalmente, para que las máquinas los ejecuten.
