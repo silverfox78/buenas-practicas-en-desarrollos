@@ -21,6 +21,7 @@
 ## Apéndice
 
 * [Anexos](Anexos/anexos.md)
+  * [San Saru, La leyenda de los tres monos sabios](Anexos/SanSaru.md)
 * [Bibliografía](Anexos/bibliografia.md)
 * [Glosario](Anexos/glosario.md)
 
