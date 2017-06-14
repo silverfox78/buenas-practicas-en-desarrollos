@@ -13,7 +13,7 @@ Es usual que nuestro trabajo no sea para nosotros, así que lo ideal es antes de
  
 * [Convenciones de nomenclatura Wikipedia](https://es.wikipedia.org/wiki/Convenci%C3%B3n_de_nombres_(programaci%C3%B3n))
  
-* [Convenciones de nomenclatura Javascript] (http://snowdream.github.io/javascript-style-guide/javascript-style-guide/es/naming-conventions.html)
+* [Convenciones de nomenclatura Javascript](http://snowdream.github.io/javascript-style-guide/javascript-style-guide/es/naming-conventions.html)
  
 * [Convenciones de nomenclatura IBM](https://www.ibm.com/support/knowledgecenter/es/SSLVQG_7.0.1/datacollection_survey_reporter_ddita/datacollection/reporter/xml/naming_conventions.html)
 
@@ -31,5 +31,10 @@ Qué es lo no apropiado en el código que se puede apreciar, pueden responder la
 - ¿Cual es el propósito de la función?
 - ¿Que tipo y propósito tiene el parámetro de la función?
 - ¿Cual es la intención de la variable llamada *c* y que implica la adición del número *3*?
-
+ 
+Para alguien con alguna experiencia puede tender a **SUPONER** qué es y qué hace cada elemento de esta función, pero esta acción es interpretativa, por ende, factible de un error interpretativo. La idea es que nuestro codigo sea universalmente claro, hay quienes recomiendan que la codificación se haga en un lenguaje más común, como por ejemplo el inglés, así obtenemos un código algo más cosmopolita, pero esto debe ser un acuerdo con nuestro cliente y su cultura en los desarrollos.
+ 
+Una frase para cerrar este punto:
+> Cualquier tonto puede escribir código que un ordenador entiende. Los buenos programadores escriben código que los humanos pueden entender.
+> Martin Fowler
 
